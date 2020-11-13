@@ -1,6 +1,6 @@
 {
   "name": "language-aurora-syntax",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A language syntax for the Aurora language",
   "repository": {
     "type": "git",
