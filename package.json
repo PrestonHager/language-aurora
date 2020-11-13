@@ -16,13 +16,12 @@
     "url": "https://github.com/PrestonHager/language-aurora-syntax/issues"
   },
   "engines": {
-    "atom": ">=1.0.0"
+    "atom": ">=1.0.0 < 2.0.0"
   },
-  "dependencies": {},
   "homepage": "https://github.com/PrestonHager/language-aurora-syntax#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": ""
+  "author": "Preston Hager"
 }
