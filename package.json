@@ -4,7 +4,7 @@
   "description": "A language syntax for the Aurora language",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PrestonHager/language-aurora-syntax.git"
+    "url": "https://github.com/PrestonHager/language-aurora-syntax.git"
   },
   "keywords": [
     "syntax",
