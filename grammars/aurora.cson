@@ -1,0 +1,11 @@
+name: 'Aurora'
+scopeName: 'source.aurora'
+fileTypes: [
+  'aurora'
+]
+limitLineLength: false
+type: 'tree-sitter'
+parser: 'tree-sitter-aurora'
+
+comments:
+  start: '// '

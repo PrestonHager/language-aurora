@@ -1,0 +1,16 @@
+{
+  "name": "language-aurora-syntax",
+  "version": "0.0.0",
+  "description": "A language syntx for the Aurora language",
+  "repository": "https://github.com/PrestonHager/language-aurora-syntax",
+  "keywords": [
+    "syntax",
+    "highlighting",
+    "grammar"
+  ],
+  "license": "GPLv3",
+  "bugs": "https://github.com/PrestonHager/language-aurora-syntax/issues",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
