@@ -10,4 +10,9 @@ comments:
   start: '// '
 
 scopes:
+  'source_file': 'source.aurora'
   'identifier': 'builtin.variable'
+  'function_definition': 'meta.defintion.function'
+  'function_call': 'meta.function'
+  'variable_definition': 'meta.definition.variable'
+  'function_return_type': 'builtin.type'
